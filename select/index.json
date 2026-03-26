@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "フローリア",
   "base_artist": "ヒバナ",
-  "createdAt": "2026-02-27T09:45:53.695756Z",
+  "createdAt": "2026-03-26T01:05:44.469845Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -29,12 +29,29 @@
       "path": "select/03_フローリア_Tomohisa_Sako.lrc"
     },
     {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フローリア",
+      "artist": "少年T-佐香智久",
+      "has_synced": true,
+      "path": "select/04_フローリア_少年T-佐香智久.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "フローリア",
       "artist": "ヒバナ",
       "has_synced": false,
       "path": "select/pl_01_フローリア_ヒバナ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "フローリア",
+      "artist": "ヒバナ",
+      "has_synced": false,
+      "path": "select/localdb_01_フローリア_ヒバナ.txt",
+      "repo_name": "l3oDiGuuALk"
     }
   ]
 }
